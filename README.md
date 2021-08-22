@@ -1,6 +1,6 @@
 # wordpair_app
 
-A new Flutter project.
+My first flutter project. It automatically generate english paired words in PasCal casing using a package call english_words
 
 ## Getting Started
 
